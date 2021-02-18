@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Achieve all your Goals in life!
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Celebrating daily with YourGoal.
     actions:
       - label: Try for free
         url: /pricing
